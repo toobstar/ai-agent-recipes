@@ -19,8 +19,6 @@ An MCP server that monitors Google Shared Drive folders for PDF invoices, extrac
 ## Installation
 
 1. Clone this repository:
-git clone <repository-url>
-cd google-drive-invoice-analyzer
 
 2. Install dependencies:
 pip install -r requirements.txt
@@ -62,6 +60,7 @@ On first run, you'll be prompted to authorize the application to access your Goo
     }
   }
 }
+```
 
 Restart Claude Desktop
 
